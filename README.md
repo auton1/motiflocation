@@ -19,3 +19,14 @@ Usage is as follows:
   - -mutations : Specify the number of mutations (mismatches) to allow when finding motifs. 
   - -uppercase_only : Only report uppercase matches.
   - -lowercase_only : Only report lowercase matches.
+
+Output
+------
+
+The program produces an output file with 5 columns.
+
+1. Chromosome
+2. Motif start position
+3. Motif end position
+4. Strand
+5. Motif sequence
